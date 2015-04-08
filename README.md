@@ -3,6 +3,7 @@ Plasmatic
 
 Plasmatic ICONs
 
+Prueba de Edicion
 
 Este repositorio es para el Tema de Iconos Plasmatic, tomando como base artistica el trabajo de Camilo Higuita y simplificando todo en iconos bien estilizados y con un toque flat que actualmente esta mucho de moda, que ademas genera un toque minimalista a la hora de su utilizacion.
 
